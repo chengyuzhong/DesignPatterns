@@ -1,4 +1,4 @@
-package com.zhong.builder;
+package com.zhong.builder.builder1;
 
 /**
  * 具体的组装电脑的实现类，可以有多个实现类

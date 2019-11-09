@@ -1,4 +1,4 @@
-package com.zhong.builder;
+package com.zhong.builder.builder1;
 
 /**
  * 建造者模式demo
