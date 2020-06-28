@@ -14,8 +14,8 @@ public class Boss extends Life {
         System.out.println("开车去");
     }
 
-    @Override
+    /*@Override
     public void goToHome() {
         System.out.println("开车回");
-    }
+    }*/
 }
